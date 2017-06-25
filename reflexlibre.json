@@ -1,0 +1,9 @@
+{
+    "reflexlibre": {
+        "branch": "stable",
+        "level": 0,
+        "revision": "28e4ec3ad35a048f38a9c1a9040f8e4e672dc0a8",
+        "state": "validated",
+        "url": "https://github.com/zamentur/reflexlibre_ynh"
+    }
+}
