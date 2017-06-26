@@ -15,7 +15,7 @@
             "packaging_format": 1,
             "description": {
                 "en": "Suivi ReflexLibre helps ensuring that your mini-server is working as expected",
-                "fr": "Suivi ReflexLibre s'assure que votre mini-serveur fonctionne comme prévue"
+                "fr": "Suivi ReflexLibre s'assure que votre mini-serveur fonctionne comme pr\u00e9vue"
             },
             "license": "AGPL-3",
             "maintainer": {
